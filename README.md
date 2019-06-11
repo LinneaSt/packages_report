@@ -2,4 +2,4 @@
 
 A line I added from RStudio
 
-A linea I added from GitHub
+A line I added from GitHub
