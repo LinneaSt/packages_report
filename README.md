@@ -9,3 +9,5 @@ New line in the branch
 Local change to the readme
 
 Let's cast a spell!'Wingardium Leviosaaaaa'
+
+Let's cast a spell! 'Riddiculus'
