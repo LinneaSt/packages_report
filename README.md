@@ -7,3 +7,5 @@ A line I added from GitHub
 New line in the branch
 
 Local change to the readme
+
+Let's cast a spell!'Wingardium Leviosaaaaa'
